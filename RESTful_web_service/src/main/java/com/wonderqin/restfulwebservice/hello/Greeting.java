@@ -1,4 +1,4 @@
-package com.example.restfulwebservice.hello;
+package com.wonderqin.restfulwebservice.hello;
 
 /**
  * @ClassName Hello
