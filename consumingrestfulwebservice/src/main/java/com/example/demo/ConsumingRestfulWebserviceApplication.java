@@ -11,7 +11,6 @@ import org.springframework.web.client.RestTemplate;
  * @Author wonderqin
  * @Description TODO
 **/
-@SpringBootApplication
 public class ConsumingRestfulWebserviceApplication {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(ConsumingRestfulWebserviceApplication.class);
